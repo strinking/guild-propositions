@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Suggestion format:
 
 # (SuggestionNumber): (SuggestionName)
@@ -17,3 +18,7 @@ Write a brief description for the suggestion here
     * Con #1
     * Con #2
     * Etc.
+=======
+# guild-propositions
+Propositions for the guild given by members
+>>>>>>> 0b845f081f7d73f10dc76f61e17f946f6928463f
