@@ -1,2 +1,2 @@
-# programming-propositions
+# guild-propositions
 propositions for programming
