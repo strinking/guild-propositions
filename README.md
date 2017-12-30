@@ -1,2 +1,2 @@
 # guild-propositions
-propositions for programming
+Propositions for the guild given by members
