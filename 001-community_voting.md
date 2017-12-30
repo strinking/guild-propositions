@@ -1,24 +1,4 @@
----
-papersize: legal
-...
-
-# 1: Community Voting System
-## Description:
-Some system (perhaps a bot/channel) where users can propose ideas/concerns which can then be voted on by other members of the community and propositions that have a positive reaction are then reviewed by staff who make the final descision.
-
-## Example:
-A user wants another user to become a staff member, they propose this using the aforementioned system, the community votes and if there is a greater number of supporting votes, staff members then decide whether or not to implement the result of the referendum. 
-
-## Pros:
-* No need for members to have indirect access to the same power as staff
-* Allows for the community to voice their concerns
-* Much more efficient way of proposing ideas than #meta
-
-## Cons:
-* Prone to abuse (like all community-based systems)
-* Might only represent a *very* small percent of the community (i.e. 5-8 active members and 10-12 people who vote)
-
-# 2: Community Based Moderation/Karma System
+# 1: Community Based Moderation/Karma System
 
 ## Description:
 A system (implemented by a bot) in which the community can give positive/negative karma to a user in which if a certain amount of negative karma is amassed, the user will lose permissions allowing them to speak in the channel in which they received the negative karma, an excess amount of negative karma will give the user the `Dunce Hat` role and allow the Staff to decide what happens with the user afterwards. To combat possible abuse/spam, the most severe punishment (for amassing negative karma) will be the receiving of the `Dunce Hat` role. Positive karma will counteract the effects of negative karma. 
