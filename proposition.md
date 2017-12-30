@@ -4,7 +4,7 @@ papersize: legal
 
 # 1: Community Voting System
 ## Description:
-Some system (perhaps a bot/channel) where users can propose ideas/concerns which can then be voted on by other members of the community and referendums that have a positive reaction are then reviewed by staff who make the final descision.
+Some system (perhaps a bot/channel) where users can propose ideas/concerns which can then be voted on by other members of the community and propositions that have a positive reaction are then reviewed by staff who make the final descision.
 
 ## Example:
 A user wants another user to become a staff member, they propose this using the aforementioned system, the community votes and if there is a greater number of supporting votes, staff members then decide whether or not to implement the result of the referendum. 
